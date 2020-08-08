@@ -36,7 +36,7 @@
         </header>
 
         <main >
-            <form action="" id="create-class">
+            <form action="/save-classes" id="create-class" method="POST">
                 <fieldset>
                     <legend>Seus Dados</legend>
                     
@@ -100,15 +100,15 @@
                         </div>
 
                         <div class="input-block">
-                            <label for="timo_from">Dass</label>
-                            <input type="time" id="time_from[]" required>
-                        </div>
+                            <label for="time_from">Das</label>
+                            <input type="time" name="time_from[]" required>
+                          </div>
 
 
                         <div class="input-block">
-                            <label for="timo_to">Até</label>
-                            <input type="time" id="time_to[]" required>
-                        </div>
+                            <label for="time_to">Até</label>
+                            <input type="time" name="time_to[]" required>
+                          </div>
                     </div>
                     
                 </fieldset>
