@@ -7,7 +7,7 @@
 * HTML
 * CSS
 * JavaScript
-* Node.JSN
+* Node.JS
 * SQL
 
 # :computer: Projeto
