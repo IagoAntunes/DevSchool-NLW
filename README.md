@@ -12,6 +12,4 @@
 
 # :computer: Projeto
 
-![](https://imgur.com/ljSVHmc.png)
-
 ![](https://imgur.com/PeCDlHU.png)
